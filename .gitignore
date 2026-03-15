@@ -1,0 +1,16 @@
+# আপলোড করা ছবি (শুধু .gitkeep রাখুন)
+uploads/*
+!uploads/.gitkeep
+
+# XAMPP কনফিগারেশন
+.htaccess
+
+# IDE ফাইল
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS ফাইল
+.DS_Store
+Thumbs.db
